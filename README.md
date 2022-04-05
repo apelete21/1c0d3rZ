@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1c0d3rZ
+- 👋 Hi, I’m @Mario
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning CSS, JavaScript ...
 - 💞️ I’m looking to collaborate on Web Development Projects

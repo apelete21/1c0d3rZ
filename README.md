@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mario
+- 👋 Hi, I’m Apelete
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning CSS, JavaScript ...
 - 💞️ I’m looking to collaborate on Web Development Projects

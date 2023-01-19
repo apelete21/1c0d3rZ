@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apelete
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning CSS, JavaScript ...
+- 👀 I’m interested in React Web development
+- 🌱 I’m currently learning CSS, JavaScript, React, Next ...
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me whatsapp : 00228 93 91 75 91 , Email : adzohonouapelete@gmail.com
 
